@@ -1,0 +1,9 @@
+{
+    "window.zoomLevel": 1,
+    "[javascriptreact]": {
+        
+    },
+    "files.associations": {
+        "*.js": "javascriptreact"
+    }
+}
